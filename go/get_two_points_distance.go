@@ -1,3 +1,6 @@
+/*
+   计算地球上两个经纬度之间的直线距离
+*/
 package main
 
 import(
