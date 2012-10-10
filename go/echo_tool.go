@@ -14,7 +14,7 @@ const (
 
 func main() {
 	flag.Parse()
-	var s string = ""
+	s :=""
 	for i := 0; i < flag.NArg(); i++ {
 		if i > 0 {
 			s += Space
